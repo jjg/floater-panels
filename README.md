@@ -12,6 +12,12 @@ Sizes are based more on the size of material needed than the final panel size.  
 * Cut: 10%, 10mm/s, 2 passes
 * Engrave: 10% 300mm/s, 2 passes 
 
+### 1/4" Baltic Birch ply
+
+* Cut: 20%, 10mm/s, 2 passes
+* Engrave: 20% 300mm/s, 3 passes 
+
+
 *Note: bigger panels may need more passes/power* 
 
 
