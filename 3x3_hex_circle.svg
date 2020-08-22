@@ -79,5 +79,12 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Engrave"
-     transform="translate(0,-220.79999)" />
+     transform="translate(0,-220.79999)">
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:1.26999998;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path4549"
+       cx="38.100002"
+       cy="258.89999"
+       r="30.480001" />
+  </g>
 </svg>
