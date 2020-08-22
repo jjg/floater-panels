@@ -2,12 +2,18 @@
 
 SVG files to cut/engrave for art.
 
+Sizes are based more on the size of material needed than the final panel size.  That might change as experimentation continues and the designs are refined.
+
+
 ## Settings
 
 ### 1/8" Baltic Birch ply
 
-* Cut: 50%, 10mm/s, 2 passes
+* Cut: 10%, 10mm/s, 2 passes
 * Engrave: 10% 300mm/s, 2 passes 
+
+*Note: bigger panels may need more passes/power* 
+
 
 ## References:
 
